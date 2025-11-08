@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Open Oswald Banner"/>
+  <img src="../banner.png" width="100%" alt="Open Oswald Banner"/>
 </p>
 
 
